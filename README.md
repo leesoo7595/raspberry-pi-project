@@ -10,3 +10,4 @@
 관련링크
 - https://pypi.org/project/gTTS/
 - http://jasmine125.tistory.com/953
+- http://www.hardcopyworld.com/ngine/aduino/index.php/archives/2736
