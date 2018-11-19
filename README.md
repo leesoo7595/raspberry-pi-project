@@ -74,3 +74,15 @@
 ![kakaotalk_photo_2018-11-18-22-39-02](https://user-images.githubusercontent.com/39291812/48673243-c5b43e80-eb82-11e8-9829-269a642aa428.jpeg)
 
 참고 링크 : https://webnautes.tistory.com/929
+
+## 11/26까지 실습 계획
+
+1. 실습명 : openCV 설치 및 얼굴인식 소스 넣어 실험하기 / 동영상 찍기
+2. 실습 절차
+- Mac으로 라즈베리파이를 원격 접속하기
+- pip, pipenv, zshell 등 opencv-python 라이브러리에 필요한 라이브러리 설치
+- opencv-python 설치 (더 간단한 방법이 있다면 그걸로)
+- 얼굴 인식 소스 집어넣기
+- 파이카메라로 촬영
+- 얼굴 인식이 잘 되는지 확인
+- 핸드폰으로 이를 확인할 수 있는지 확인
