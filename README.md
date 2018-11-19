@@ -86,3 +86,5 @@
 - 파이카메라로 촬영
 - 얼굴 인식이 잘 되는지 확인
 - 핸드폰으로 이를 확인할 수 있는지 확인
+
+참고 링크 : http://deepdeepit.tistory.com/19?fbclid=IwAR0qZ4i3AUvm-pSDEGDaO65fprveORKIHk0mUeF7tweTaqkPmnLCNKYu5ok
