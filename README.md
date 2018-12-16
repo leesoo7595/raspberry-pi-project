@@ -2,10 +2,16 @@
 
 
 <img width="1680" alt="screen shot 2018-10-29 at 4 25 12 pm" src="https://user-images.githubusercontent.com/39291812/47635240-a9cb0780-db97-11e8-855e-9566f6189019.png">
+<img width="1680" alt="screen shot 2018-12-17 at 1 42 55 am" src="https://user-images.githubusercontent.com/39291812/50056277-3c058a00-019d-11e9-9317-e5c15c05bd99.png">
 <img width="1680" alt="screen shot 2018-10-29 at 4 27 42 pm" src="https://user-images.githubusercontent.com/39291812/47635244-ac2d6180-db97-11e8-9701-3d470f083451.png">
 <img width="1680" alt="screen shot 2018-10-29 at 4 27 47 pm" src="https://user-images.githubusercontent.com/39291812/47635246-ae8fbb80-db97-11e8-9000-f09ff4a7be93.png">
 <img width="1680" alt="screen shot 2018-10-29 at 4 27 49 pm" src="https://user-images.githubusercontent.com/39291812/47635250-b3546f80-db97-11e8-975a-8215c7353572.png">
 <img width="1680" alt="screen shot 2018-10-29 at 4 27 51 pm" src="https://user-images.githubusercontent.com/39291812/47635254-b6e7f680-db97-11e8-9d1e-393e4ebe55dd.png">
+<img width="1680" alt="screen shot 2018-12-17 at 1 43 08 am" src="https://user-images.githubusercontent.com/39291812/50056278-3d36b700-019d-11e9-9702-38c0d6555f57.png">
+<img width="1680" alt="screen shot 2018-12-17 at 1 43 12 am" src="https://user-images.githubusercontent.com/39291812/50056280-3e67e400-019d-11e9-9993-4c1969293c83.png">
+<img width="1680" alt="screen shot 2018-12-17 at 1 43 15 am" src="https://user-images.githubusercontent.com/39291812/50056282-3f991100-019d-11e9-8c69-7f97f320ac57.png">
+<img width="1680" alt="screen shot 2018-12-17 at 1 43 17 am" src="https://user-images.githubusercontent.com/39291812/50056283-4162d480-019d-11e9-89e8-3f291df6111c.png">
+<img width="1680" alt="screen shot 2018-12-17 at 1 43 19 am" src="https://user-images.githubusercontent.com/39291812/50056285-42940180-019d-11e9-9afd-f653482fd151.png">
 
 
 관련링크
